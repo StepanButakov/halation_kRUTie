@@ -1,2 +1,2 @@
-# halation_kRUTie
+# hakaton_kRUTie
 скрипт для хакатона
