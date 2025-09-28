@@ -1,0 +1,6 @@
+policy_id,vehicle_id,provider,start_date,end_date,tariff_class,deductible_eur,annual_premium_eur
+POL-V001,V001,Achmea,2025-08-08,2026-08-08,B,500,4140
+POL-V002,V002,NN,2025-07-08,2026-07-08,A,1500,4963
+POL-V003,V003,Achmea,2025-06-14,2026-06-14,B,500,5722
+POL-V004,V004,NN,2025-07-15,2026-07-15,C,500,1769
+POL-V005,V005,Aegon,2025-08-16,2026-08-16,B,500,3107
